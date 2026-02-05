@@ -42,3 +42,5 @@ To see the analysis, strategies and clustering run:
 ```bash
 streamlit run dashboard.py
 ```
+
+## 📄 Detailed Project Report — [View Documentation](project_report.md)
