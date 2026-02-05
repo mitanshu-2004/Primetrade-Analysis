@@ -40,5 +40,3 @@ There was no consistent pattern for the computer to find. It was like trying to 
 **2. Personality vs. Price**
 My data successfully identified a trader's *personality* (e.g., "This guy is a High Roller"), but it didn't tell me what the *market* was doing. Knowing a trader likes big risks doesn't tell me if Bitcoin is going to crash tomorrow morning. Without that market price data, the model was flying blind.
 
-## My Conclusion
-So I have decided to not include the predictive engine. 
