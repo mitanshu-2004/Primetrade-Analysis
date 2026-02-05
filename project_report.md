@@ -10,7 +10,7 @@ I built a data pipeline to turn raw trade logs into clear actions.
 
 ## Note on Predictive Modeling
 
-I initially attempted to build a machine learning model to predict daily trader profits. However, the daily price action proved too random to generate reliable predictions. You can find the details of this experiment, including why it failed, in the `failed_prediction/` folder.
+I initially attempted to build a machine learning model to predict daily trader profits. However, the daily price action proved too random to generate reliable predictions. You can find the details of this experiment, including why it failed [here](failed_prediction/Readme.md)
 
 ## Insights
 
