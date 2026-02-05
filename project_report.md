@@ -4,9 +4,9 @@
 
 I built a data pipeline to turn raw trade logs into clear actions.
 
-*   **Data Processing:** I combined the trading logs with the Fear & Greed Index. I calculated daily stats for every trader, including their Profit/Loss (PnL), Win Rate, Trade Size, and how much they went Long vs. Short.
-*   **Grouping Traders:** I used a machine learning tool (K-Means) to sort traders based on how they act, not just how much money they make. This found three specific types of traders.
-*   **Strategy Check:** I looked at how each group performed during "Fear" and "Greed" to see which actions worked best.
+*   **Data Processing:** Combined the trading logs with the Fear & Greed Index. Calculated daily stats for every trader, including their Profit/Loss (PnL), Win Rate, Trade Size, and how much they went Long vs. Short.
+*   **Grouping Traders:** Used a machine learning tool (K-Means) to sort traders based on how they act, not just how much money they make. This found three specific types of traders.
+*   **Strategy Check:** Looked at how each group performed during "Fear" and "Greed" to see which actions worked best.
 
 ## Note on Predictive Modeling
 
